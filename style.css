@@ -5,7 +5,7 @@
   }
   .topnav a {
     float: left;
-    color: #f2f2f2;
+    color: #d203ee;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -20,3 +20,7 @@
     color: white;
   }
   
+  backround{
+    color: #04AA6D;
+  
+  }
