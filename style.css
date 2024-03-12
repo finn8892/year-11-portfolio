@@ -22,13 +22,16 @@
  
 
 h1 {
-  color: pink;
+  color: rgb(2, 100, 32);
   font-family: Verdana;
+  font-size: 300%;
 
 }
 
   p {
     font-family: Tahoma;
+    font-size: 150%;
+
 
 
   }
